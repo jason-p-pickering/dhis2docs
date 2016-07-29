@@ -6,18 +6,15 @@
     xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:svg="http://www.w3.org/2000/svg" xmlns:mth="http://www.w3.org/1998/Math/MathML"
     xmlns:db="http://docbook.org/ns/docbook"
-    id="user_story_udsm">
+    xml:id="user_story_udsm">
     <title>Tanzania: Integrated Health Information Architecture</title>
     <section>
         <title>About this use case</title>
-        <?oxy_comment_start author="cecilia" timestamp="20160705T100150+0200" comment="Removed citation tag, it renders as []"?>
         <para><emphasis role="bold">In this use case, we'll be looking at the different stages of
                 how multiple teams collaborated with the University of Dar es Salaam (UDSM), the
                 Ministry of Health and Social Welfare (MoHSW), and the University of Oslo (UiO) to
                 implement integrated Health Information Systems (HIS) in Tanzania
-                Mainland.</emphasis></para>
-        <?oxy_comment_end?>
-        <para><emphasis role="bold">The key lessons learned were the importance of implementing a
+                Mainland. The key lessons learned were the importance of implementing a
                 HIS gradually to provide a sustainable framework; streamlining resources and
                 promoting collaboration; ensuring systems were flexible; promoting data ownership
                 and data sharing; building capacity at all levels; involving major programs very
