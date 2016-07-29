@@ -6,7 +6,6 @@ set -e # exit with nonzero exit code if anything fails
 if [ "$TRAVIS_REPO_SLUG" == "dhis2/dhis2-docs" ]  && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   if [[ "$TRAVIS_BRANCH" =~ $BRANCH_REGEX ]]; then
     mvn -Ddocbkx.fopLogLevel=ERROR -Denforcer.fail=false -q package
-    mvn -Ddocbkx.fopLogLevel=ERROR -Denforcer.fail=false  -f user-stories-pom.xml package
   else
     mvn -f pom-short.xml -Ddocbkx.fopLogLevel=ERROR -Denforcer.fail=false  package
   fi
