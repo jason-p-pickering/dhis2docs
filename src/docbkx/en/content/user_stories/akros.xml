@@ -6,7 +6,7 @@
     xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:svg="http://www.w3.org/2000/svg" xmlns:mth="http://www.w3.org/1998/Math/MathML"
     xmlns:db="http://docbook.org/ns/docbook"
-    id="user_story_akros">
+    xml:id="user_story_akros">
     <title>Zambia WASH: Mobile surveillance using DHIS2</title>
     <para><emphasis role="bold">The government of Zambia is actively working towards an end to open
             defecation—a huge challenge for many governments. Akros is supporting the government in
