@@ -97,6 +97,7 @@
 							<metricsFile>${project.basedir}/target/fonts/DejaVuSans-metrics.xml</metricsFile>
 						</font>
 					</fonts>
+					<useIdAsFilename>true</useIdAsFilename>
 				</configuration>
 				<executions>
 					<!-- Chunked HTML User docs-->
