@@ -480,7 +480,7 @@
 						</configuration>
 					</execution>
 					<!-- User manual webhelp -->
-					<-!-- <execution>
+					<!-- <execution>
 						<id>webhelp-docs-en</id>
 						<phase>package</phase>
 						<goals>
